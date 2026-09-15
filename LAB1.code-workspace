@@ -9,6 +9,11 @@
     "editor.fontSize": 18,
     "editor.minimap.enabled": false,
     "editor.wordWrap": "off",
+    "workbench.editorAssociations": {
+      "*.vcd": "vaporview.waveformViewer"
+    },
+    "vaporview.promptLoadSettings": "Never",
+    "vaporview.defaultAutoReload": true,
     "files.exclude": {
       "**/__pycache__": true
     }
