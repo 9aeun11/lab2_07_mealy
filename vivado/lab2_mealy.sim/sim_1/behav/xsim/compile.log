@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gaeun/Desktop/lab2_07_mealy/src/mealy_toggle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_toggle
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/gaeun/Desktop/lab2_07_mealy/sim/tb_mealy_toggle.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_mealy_toggle
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/gaeun/Desktop/lab2_07_mealy/vivado/lab2_mealy.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
