@@ -1,9 +1,0 @@
-0.7
-2020.2
-Jun 16 2026
-11:10:11
-C:/Users/gaeun/Desktop/lab2_07_mealy/sim/tb_mealy_toggle.sv,1789408123,systemVerilog,,,,tb_mealy_toggle,,uvm,../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/gaeun/Desktop/lab2_07_mealy/src/input_frontend.v,1789407098,verilog,,C:/Users/gaeun/Desktop/lab2_07_mealy/src/mealy_toggle.v,,input_frontend,,,../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/gaeun/Desktop/lab2_07_mealy/src/lab2_mealy.v,1789408122,verilog,,,,lab2_mealy,,,../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/gaeun/Desktop/lab2_07_mealy/src/mealy_toggle.v,1789531059,verilog,,C:/Users/gaeun/Desktop/lab2_07_mealy/src/lab2_mealy.v,,mealy_toggle,,uvm,../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/gaeun/Desktop/lab2_07_mealy/vivado/lab2_mealy.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,uvm,,,,,,

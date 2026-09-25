@@ -1,3 +1,0 @@
-Time resolution is 1 ps
-LAB2_PASS mealy_toggle checks=11
-$finish called at time : 67 ns : File "C:/Users/gaeun/Desktop/lab2_07_mealy/sim/tb_mealy_toggle.sv" Line 19
